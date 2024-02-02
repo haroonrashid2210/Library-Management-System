@@ -1,0 +1,30 @@
+4
+Quantum Mechanics: Concepts and Applications
+Nouredine Zettili
+1
+Calculus: Early Transcendentals
+James Stewart
+3
+Introduction to Algorithms
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+0
+Linear Algebra Done Right
+Sheldon Axler
+2
+The Feynman Lectures on Physics
+Richard P. Feynman, Robert B. Leighton, Matthew Sands
+5
+Artificial Intelligence: A Modern Approach
+Stuart Russell, Peter Norvig
+1
+Probability and Statistics for Engineering and the Sciences
+Jay L. Devore
+4
+The Structure of Scientific Revolutions
+Thomas S. Kuhn
+2
+Computer Networking: Principles, Protocols and Practice
+Olivier Bonaventure
+0
+Introduction to Quantum Mechanics
+David J. Griffiths
