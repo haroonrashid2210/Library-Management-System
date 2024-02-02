@@ -25,6 +25,6 @@ Feel free to explore and contribute to the improvement of this Library Managemen
 
 ## Data file structure (.txt)
 
-Shelve
-Book
-Author
+- Shelve
+- Book
+- Author
